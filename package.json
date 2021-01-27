@@ -1,6 +1,6 @@
 {
   "name": "@mograine/nestjs-kit",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index",
   "scripts": {
     "prepublishOnly": "npm run compile",
